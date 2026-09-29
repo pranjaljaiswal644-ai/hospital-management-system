@@ -33,8 +33,6 @@ def search_patient():
          print("disease:", patient["disease"])
          return 
 
-print("patient not found.")
-
 while True :
   print("\n===== HOSPITAL MANAGEMENT SYSTEM =====")
   print("1. add patient")
