@@ -1,0 +1,27 @@
+# Hospital Management System
+
+ Problem Statement
+
+Managing patient information manually can be time-consuming and difficult. It may also make it difficult to quickly find a patient's details. This project provides a simple computerized system to store and manage basic patient information such as name, age, and disease.
+
+ Scope of the Project
+
+The project focuses on basic patient record management using a Python console application. It allows users to add, view, and search patient records during program execution. The current system stores data temporarily and does not use a permanent database.
+
+ Target Users
+
+The system is mainly designed for:
+
+* Small clinics
+* Reception or registration staff
+* Beginners learning Python programming
+* Students demonstrating basic management-system concepts
+
+High-Level Features
+
+* **Add Patient:** Add a patient's name, age, and disease.
+* **View Patients:** Display all stored patient records.
+* **Search Patient:** Search for a patient by name.
+* **Menu-Driven Interface:** Select operations through a simple menu.
+* **Invalid Choice Handling:** Displays an error message for invalid menu options.
+* **Simple Data Storage:** Uses Python lists and dictionaries to store patient information temporarily.
